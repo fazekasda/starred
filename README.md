@@ -9,6 +9,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [Go](#go)
   - [Groff](#groff)
   - [HTML](#html)
@@ -31,6 +32,7 @@
 
 ## C 
 
+- [ultrajson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 - [rtl8192eu-linux-driver](https://github.com/jeremyb31/rtl8192eu-linux-driver) - Drivers for the rtl8192eu chipset for wireless adapters (D-Link DWA-131 rev E1 included!)
 - [netdata](https://github.com/firehol/netdata) - Real-time performance monitoring, done right!
 - [fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output.
@@ -40,6 +42,7 @@
 
 ## C++ 
 
+- [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [bish](https://github.com/tdenniston/bish) - Bish is a language that compiles to Bash. It's designed to give shell scripting a more comfortable and modern feel.
@@ -56,8 +59,13 @@
 - [jekyll-resume](https://github.com/philipithomas/jekyll-resume) - Digital resume using Jekyll
 - [docker-jumpstart](https://github.com/odewahn/docker-jumpstart) - A quick introduction to Docker
 
+## Clojure 
+
+- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+
 ## Go 
 
+- [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go patterns and idioms
@@ -81,7 +89,7 @@
 - [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 - [noti](https://github.com/variadico/noti) - Trigger notifications when a process completes.
 - [irelate](https://github.com/brentp/irelate) - Streaming relation (overlap, distance, KNN) of (any number of) sorted genomic interval sets. #golang
-- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a simple and highly scalable distributed file system. There are two objectives:  to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a simple and highly scalable distributed file system. There are two objectives:  to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, SeaweedFS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 - [serve2d](https://github.com/joushou/serve2d) - Protocol detecting server
 - [wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH
@@ -111,11 +119,10 @@
 
 ## JavaScript 
 
+- [galaxy-ipython](https://github.com/bgruening/galaxy-ipython) - :microscope::books: IPython Integration into Galaxy
 - [bionode](https://github.com/bionode/bionode) - Modular and universal bioinformatics
 - [felony](https://github.com/henryboldi/felony) - 🔑🔥📈 Next Level PGP
 - [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project
-- [pytalk.js](https://github.com/tsim0/pytalk.js) - Bidirectional communication between Node.js and Python
-- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [nbextension-scratchpad](https://github.com/minrk/nbextension-scratchpad) - scratchpad extension for Jupyter notebook
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
@@ -131,6 +138,7 @@
 
 ## Jupyter Notebook 
 
+- [containers](https://github.com/BioContainers/containers) - Bioinformatics containers
 - [DSbox](https://github.com/mcolebrook/DSbox) - Data Science box: Spark, Jupyter, R+RStudio, Zeppelin, Python 2 & 3, Java, Scala.
 - [6.006-2015-notebooks](https://github.com/nivwusquorum/6.006-2015-notebooks) - 
 
@@ -140,6 +148,8 @@
 
 ## Others 
 
+- [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
+- [ansible-letsencrypt](https://github.com/thefinn93/ansible-letsencrypt) - An ansible role to generate TLS certificates and get them signed by Let's Encrypt
 - [google-interview-university](https://github.com/jwasham/google-interview-university) - A complete daily plan for studying to become a Google software engineer.
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.
 - [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) - A list of minimalist frameworks (simple and lightweight).
@@ -167,6 +177,13 @@
 
 ## Python 
 
+- [brenda](https://github.com/jamesyonan/brenda) - Blender render farm software for Amazon Web Services
+- [home-assistant](https://github.com/home-assistant/home-assistant) - :house_with_garden: Open-source home automation platform running on Python 3
+- [ptpython](https://github.com/jonathanslenders/ptpython) - A better Python REPL
+- [neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
+- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
+- [connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
+- [spade](https://github.com/suraj-root/spade) - APK backdoor embedder
 - [git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator.
 - [dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
@@ -196,7 +213,7 @@
 - [silly](https://github.com/classam/silly) - A python library for producing fanciful test data.
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
-- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise.
 - [spreadsheet_server](https://github.com/robsco-git/spreadsheet_server) - A python server harnessing the calculational ability of LibreOffice Calc (thanks to 'pyoo'). It provides 'instant' access to the cell ranges of a set of spreadsheets.
 - [agate](https://github.com/wireservice/agate) - A Python data analysis library that is optimized for humans instead of machines.
 - [leather](https://github.com/wireservice/leather) - Python charting for 80% of humans.
@@ -214,7 +231,7 @@
 - [thorn](https://github.com/robinhood/thorn) - Easy Webhooks for Python
 - [import-from](https://github.com/libeclipse/import-from) - Import python functions from anywhere!
 - [flinck](https://github.com/Kraymer/flinck) - Sort your movies on filesystem by dates, ratings, etc using symlinks.
-- [caravel](https://github.com/airbnb/caravel) - Caravel is a data exploration platform designed to be visual, intuitive, and interactive
+- [superset](https://github.com/airbnb/superset) - Caravel is a data exploration platform designed to be visual, intuitive, and interactive
 - [rsync-time-machine](https://github.com/infinet/rsync-time-machine) - Time Machine Style backup using rsync
 - [SSHKeyDistribut0r](https://github.com/thomai/SSHKeyDistribut0r) - A tool to automate key distribution with user authorization
 - [concierge](https://github.com/9seconds/concierge) - Ladies and gentlemen: maintainable SSH configs
@@ -223,7 +240,7 @@
 - [ggplot](https://github.com/yhat/ggplot) - ggplot for python
 - [redis-astra](https://github.com/pilat/redis-astra) - Python light ORM for Redis
 - [scholar.py](https://github.com/ckreibich/scholar.py) - A parser for Google Scholar, written in Python
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Collection of over 25 patched fonts (over 5,700 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Collection of over 25 patched fonts (over 5,700 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and more
 - [todo](https://github.com/foobuzz/todo) - A simple command line todo list manager which can be as powerful as you want it do be.
 - [simple-crawler](https://github.com/mrafayaleem/simple-crawler) - A super simple webcrawler framework written in Python.
 - [pypi-publisher](https://github.com/wdm0006/pypi-publisher) - a simple cli for publishing packages to pypi without the hassle
