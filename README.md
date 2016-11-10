@@ -65,6 +65,7 @@
 
 ## Go 
 
+- [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
