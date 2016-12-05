@@ -65,6 +65,8 @@
 
 ## Go 
 
+- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -120,6 +122,9 @@
 
 ## JavaScript 
 
+- [poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
+- [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
+- [md2googleslides](https://github.com/googlesamples/md2googleslides) - Generate Google Slides from markdown
 - [galaxy-ipython](https://github.com/bgruening/galaxy-ipython) - :microscope::books: IPython Integration into Galaxy
 - [bionode](https://github.com/bionode/bionode) - Modular and universal bioinformatics
 - [felony](https://github.com/henryboldi/felony) - 🔑🔥📈 Next Level PGP
@@ -178,6 +183,7 @@
 
 ## Python 
 
+- [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms
 - [brenda](https://github.com/jamesyonan/brenda) - Blender render farm software for Amazon Web Services
 - [home-assistant](https://github.com/home-assistant/home-assistant) - :house_with_garden: Open-source home automation platform running on Python 3
 - [ptpython](https://github.com/jonathanslenders/ptpython) - A better Python REPL
@@ -220,7 +226,7 @@
 - [leather](https://github.com/wireservice/leather) - Python charting for 80% of humans.
 - [invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
-- [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python
+- [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python and CLI
 - [flask-rq](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
 - [stack](https://github.com/RyanKung/stack) - The Python Tool stack (unstable)
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
@@ -232,7 +238,7 @@
 - [thorn](https://github.com/robinhood/thorn) - Easy Webhooks for Python
 - [import-from](https://github.com/libeclipse/import-from) - Import python functions from anywhere!
 - [flinck](https://github.com/Kraymer/flinck) - Sort your movies on filesystem by dates, ratings, etc using symlinks.
-- [superset](https://github.com/airbnb/superset) - Caravel is a data exploration platform designed to be visual, intuitive, and interactive
+- [superset](https://github.com/airbnb/superset) - Superset is a data exploration platform designed to be visual, intuitive, and interactive
 - [rsync-time-machine](https://github.com/infinet/rsync-time-machine) - Time Machine Style backup using rsync
 - [SSHKeyDistribut0r](https://github.com/thomai/SSHKeyDistribut0r) - A tool to automate key distribution with user authorization
 - [concierge](https://github.com/9seconds/concierge) - Ladies and gentlemen: maintainable SSH configs
@@ -322,6 +328,7 @@
 
 ## Shell 
 
+- [bash-tricks](https://github.com/nibalizer/bash-tricks) - Sweet Bash Tricks
 - [rpi-arch-builder](https://github.com/containerstack/rpi-arch-builder) - Pre-configure Arch Linux ARM (RPI) before first boot
 - [FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
 - [dcw](https://github.com/rezzza/dcw) - dcw is docker compose wrapper to simplify everyday dev work with containers
@@ -337,7 +344,7 @@
 ## TypeScript 
 
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment. This is a very early preview, and is not suitable for general usage yet.
-- [black-screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century.
+- [black-screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.
 
 
 ## License
