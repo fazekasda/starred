@@ -65,6 +65,7 @@
 
 ## Go 
 
+- [jid](https://github.com/simeji/jid) - json incremental digger
 - [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
@@ -154,6 +155,7 @@
 
 ## Others 
 
+- [pandoc-ebook-template](https://github.com/evangoer/pandoc-ebook-template) - This project defines a skeleton repo for creating ebooks out of Pandoc Markdown.
 - [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [ansible-letsencrypt](https://github.com/thefinn93/ansible-letsencrypt) - An ansible role to generate TLS certificates and get them signed by Let's Encrypt
 - [google-interview-university](https://github.com/jwasham/google-interview-university) - A complete daily plan for studying to become a Google software engineer.
@@ -328,6 +330,7 @@
 
 ## Shell 
 
+- [PiNet](https://github.com/PiNet/PiNet) - A utility for setting up and managing the infrastructure required for a permanent classroom set of Raspberry Pis to be used with students.
 - [bash-tricks](https://github.com/nibalizer/bash-tricks) - Sweet Bash Tricks
 - [rpi-arch-builder](https://github.com/containerstack/rpi-arch-builder) - Pre-configure Arch Linux ARM (RPI) before first boot
 - [FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
