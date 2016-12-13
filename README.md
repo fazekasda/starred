@@ -10,6 +10,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [CoffeeScript](#coffeescript)
   - [Go](#go)
   - [Groff](#groff)
   - [HTML](#html)
@@ -34,7 +35,7 @@
 
 - [ultrajson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 - [rtl8192eu-linux-driver](https://github.com/jeremyb31/rtl8192eu-linux-driver) - Drivers for the rtl8192eu chipset for wireless adapters (D-Link DWA-131 rev E1 included!)
-- [netdata](https://github.com/firehol/netdata) - Real-time performance monitoring, done right!
+- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
 - [fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output.
 - [micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
@@ -43,7 +44,6 @@
 ## C++ 
 
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-- [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [bish](https://github.com/tdenniston/bish) - Bish is a language that compiles to Bash. It's designed to give shell scripting a more comfortable and modern feel.
 
@@ -63,8 +63,13 @@
 
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 
+## CoffeeScript 
+
+- [marp](https://github.com/yhatt/marp) - Markdown presentation writer, powered by Electron.
+
 ## Go 
 
+- [gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [jid](https://github.com/simeji/jid) - json incremental digger
 - [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -239,7 +244,7 @@
 - [toil](https://github.com/BD2KGenomics/toil) - A scalable, efficient, cross-platform and easy-to-use workflow engine in pure Python
 - [thorn](https://github.com/robinhood/thorn) - Easy Webhooks for Python
 - [import-from](https://github.com/libeclipse/import-from) - Import python functions from anywhere!
-- [flinck](https://github.com/Kraymer/flinck) - Sort your movies on filesystem by dates, ratings, etc using symlinks.
+- [flinck](https://github.com/Kraymer/flinck) - Sort your movies on filesystem by dates, ratings, etc using symlinks
 - [superset](https://github.com/airbnb/superset) - Superset is a data exploration platform designed to be visual, intuitive, and interactive
 - [rsync-time-machine](https://github.com/infinet/rsync-time-machine) - Time Machine Style backup using rsync
 - [SSHKeyDistribut0r](https://github.com/thomai/SSHKeyDistribut0r) - A tool to automate key distribution with user authorization
@@ -291,6 +296,7 @@
 - [bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [workflow](https://github.com/mdipierro/workflow) - minimalist file based workflow
 - [fsp-deployment-guide](https://github.com/mattmakai/fsp-deployment-guide) - Companion code for the Full Stack Python Guide to Deployments book.
+- [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [ipython_extensions](https://github.com/minrk/ipython_extensions) - My IPython extensions
 - [blender-graphs](https://github.com/patrickfuller/blender-graphs) - Produces visualizations of network data in Blender.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
