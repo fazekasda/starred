@@ -69,6 +69,7 @@
 
 ## Go 
 
+- [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & Prometheus
 - [gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [jid](https://github.com/simeji/jid) - json incremental digger
 - [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database
@@ -190,6 +191,7 @@
 
 ## Python 
 
+- [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms
 - [brenda](https://github.com/jamesyonan/brenda) - Blender render farm software for Amazon Web Services
 - [home-assistant](https://github.com/home-assistant/home-assistant) - :house_with_garden: Open-source home automation platform running on Python 3
@@ -254,7 +256,7 @@
 - [ggplot](https://github.com/yhat/ggplot) - ggplot for python
 - [redis-astra](https://github.com/pilat/redis-astra) - Python light ORM for Redis
 - [scholar.py](https://github.com/ckreibich/scholar.py) - A parser for Google Scholar, written in Python
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Collection of over 25 patched fonts (over 5,700 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and more
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Collection of 35+ patched fonts (over 74.5k possible variations) with a FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and other icon fonts. Includes fonts: SourceCodePro, Hack, Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolata, and more
 - [todo](https://github.com/foobuzz/todo) - A simple command line todo list manager which can be as powerful as you want it do be.
 - [simple-crawler](https://github.com/mrafayaleem/simple-crawler) - A super simple webcrawler framework written in Python.
 - [pypi-publisher](https://github.com/wdm0006/pypi-publisher) - a simple cli for publishing packages to pypi without the hassle
