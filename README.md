@@ -12,17 +12,16 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Go](#go)
-  - [Groff](#groff)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter notebook)
-  - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
   - [Python](#python)
   - [R](#r)
+  - [Roff](#roff)
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -44,6 +43,7 @@
 ## C++ 
 
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+- [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [bish](https://github.com/tdenniston/bish) - Bish is a language that compiles to Bash. It's designed to give shell scripting a more comfortable and modern feel.
 
@@ -61,7 +61,7 @@
 
 ## Clojure 
 
-- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
 
 ## CoffeeScript 
 
@@ -69,10 +69,12 @@
 
 ## Go 
 
-- [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & Prometheus
+- [restic](https://github.com/restic/restic) - restic backup program
+- [csvtk](https://github.com/shenwei356/csvtk) - A cross-platform, efficient, practical and pretty CSV/TSV toolkit in Golang
+- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [jid](https://github.com/simeji/jid) - json incremental digger
-- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database
+- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
@@ -84,7 +86,6 @@
 - [atlantis](https://github.com/ooyala/atlantis) - Open Source PaaS Built on Docker
 - [sman](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 - [texttop](https://github.com/tombh/texttop) - A fully interactive X Linux desktop rendered in TTY and streamable over SSH
-- [btrdb](https://github.com/SoftwareDefinedBuildings/btrdb) - Berkeley Tree Database (BTrDB) - development version
 - [go-httpd](https://github.com/otoolep/go-httpd) - How to organise a Go HTTP service
 - [find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [spread](https://github.com/redspread/spread) - Docker to Kubernetes in one command
@@ -110,10 +111,6 @@
 - [go](https://github.com/golang/go) - The Go programming language
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 
-## Groff 
-
-- [facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) - Tunneling Internet traffic over Facebook chat.
-
 ## HTML 
 
 - [startbootstrap-sb-admin-2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
@@ -129,20 +126,27 @@
 
 ## JavaScript 
 
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [ems](https://github.com/SyntheticSemantics/ems) - Extended Memory Semantics - Persistent shared object memory and parallelism for Node.js and Python
+- [RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - RPi-Monitor always keep an eye on your Raspberry Pi and can give you the current status and the history of resources usages in a nice looking and interactive web interface.
 - [poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [md2googleslides](https://github.com/googlesamples/md2googleslides) - Generate Google Slides from markdown
 - [galaxy-ipython](https://github.com/bgruening/galaxy-ipython) - :microscope::books: IPython Integration into Galaxy
 - [bionode](https://github.com/bionode/bionode) - Modular and universal bioinformatics
 - [felony](https://github.com/henryboldi/felony) - 🔑🔥📈 Next Level PGP
+- [pyxley](https://github.com/stitchfix/pyxley) - Python helpers for building dashboards using Flask and React
 - [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project
+- [btrdb](https://github.com/SoftwareDefinedBuildings/btrdb) - Berkeley Tree Database (BTrDB) - development version
+- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [nbextension-scratchpad](https://github.com/minrk/nbextension-scratchpad) - scratchpad extension for Jupyter notebook
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [flask-editablesite](https://github.com/Jaza/flask-editablesite) - A template for building a small marketing web site in Flask where all content is live editable.
 - [jgraph](https://github.com/patrickfuller/jgraph) - An embeddable webGL graph visualization library.
+- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [codebox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
-- [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp) - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
 - [stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
 - [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
@@ -155,16 +159,13 @@
 - [DSbox](https://github.com/mcolebrook/DSbox) - Data Science box: Spark, Jupyter, R+RStudio, Zeppelin, Python 2 & 3, Java, Scala.
 - [6.006-2015-notebooks](https://github.com/nivwusquorum/6.006-2015-notebooks) - 
 
-## Makefile 
-
-- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
-
 ## Others 
 
+- [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [pandoc-ebook-template](https://github.com/evangoer/pandoc-ebook-template) - This project defines a skeleton repo for creating ebooks out of Pandoc Markdown.
 - [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [ansible-letsencrypt](https://github.com/thefinn93/ansible-letsencrypt) - An ansible role to generate TLS certificates and get them signed by Let's Encrypt
-- [google-interview-university](https://github.com/jwasham/google-interview-university) - A complete daily plan for studying to become a Google software engineer.
+- [google-interview-university](https://github.com/jwasham/google-interview-university) - A complete computer science study plan to become a software engineer.
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.
 - [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) - A list of minimalist frameworks (simple and lightweight).
 - [stanford_dl_ex](https://github.com/amaas/stanford_dl_ex) - Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial
@@ -198,7 +199,7 @@
 - [ptpython](https://github.com/jonathanslenders/ptpython) - A better Python REPL
 - [neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
-- [connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
+- [connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
 - [spade](https://github.com/suraj-root/spade) - APK backdoor embedder
 - [git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator.
@@ -224,12 +225,11 @@
 - [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command lines in Python
 - [incubator-airflow](https://github.com/apache/incubator-airflow) - Apache Airflow (Incubating)
 - [kafka-tools](https://github.com/linkedin/kafka-tools) - A collection of tools for working with Apache Kafka.
-- [pyxley](https://github.com/stitchfix/pyxley) - Python helpers for building dashboards using Flask and React
 - [preflyt](https://github.com/humangeo/preflyt) - A lightweight application environment checker
 - [silly](https://github.com/classam/silly) - A python library for producing fanciful test data.
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
-- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise.
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/integrations/gitsome
 - [spreadsheet_server](https://github.com/robsco-git/spreadsheet_server) - A python server harnessing the calculational ability of LibreOffice Calc (thanks to 'pyoo'). It provides 'instant' access to the cell ranges of a set of spreadsheets.
 - [agate](https://github.com/wireservice/agate) - A Python data analysis library that is optimized for humans instead of machines.
 - [leather](https://github.com/wireservice/leather) - Python charting for 80% of humans.
@@ -253,10 +253,10 @@
 - [concierge](https://github.com/9seconds/concierge) - Ladies and gentlemen: maintainable SSH configs
 - [parsimonious](https://github.com/erikrose/parsimonious) - The fastest pure-Python PEG parser I can muster
 - [pyinstapaper](https://github.com/mdorn/pyinstapaper) - 
-- [ggplot](https://github.com/yhat/ggplot) - ggplot for python
+- [ggpy](https://github.com/yhat/ggpy) - ggplot port for python
 - [redis-astra](https://github.com/pilat/redis-astra) - Python light ORM for Redis
 - [scholar.py](https://github.com/ckreibich/scholar.py) - A parser for Google Scholar, written in Python
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Collection of 35+ patched fonts (over 74.5k possible variations) with a FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and other icon fonts. Includes fonts: SourceCodePro, Hack, Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolata, and more
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Collection of 35+ patched fonts (over 74.5k possible variations) with a FontForge font patcher Python script for Powerline, Font Awesome, Octicons, Devicons, and other icon fonts. Includes fonts: SourceCodePro, Hack, Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolata, and more
 - [todo](https://github.com/foobuzz/todo) - A simple command line todo list manager which can be as powerful as you want it do be.
 - [simple-crawler](https://github.com/mrafayaleem/simple-crawler) - A super simple webcrawler framework written in Python.
 - [pypi-publisher](https://github.com/wdm0006/pypi-publisher) - a simple cli for publishing packages to pypi without the hassle
@@ -298,7 +298,6 @@
 - [bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [workflow](https://github.com/mdipierro/workflow) - minimalist file based workflow
 - [fsp-deployment-guide](https://github.com/mattmakai/fsp-deployment-guide) - Companion code for the Full Stack Python Guide to Deployments book.
-- [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [ipython_extensions](https://github.com/minrk/ipython_extensions) - My IPython extensions
 - [blender-graphs](https://github.com/patrickfuller/blender-graphs) - Produces visualizations of network data in Blender.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -336,8 +335,15 @@
 
 - [ChainRank](https://github.com/atenyi/ChainRank) - ChainRank is a bioinformatical tool aimed to prioritize and contextualize biological subnetworks, it is based on a chain search method
 
+## Roff 
+
+- [facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) - Tunneling Internet traffic over Facebook chat.
+
 ## Shell 
 
+- [git-recall](https://github.com/Fakerr/git-recall) - Simple and handy tool to easily recall what you've done
+- [climate](https://github.com/adtac/climate) - The ultimate command line tool for Linux developers! Provides a huge number of tools for developers to automate their system.
+- [autovpn](https://github.com/ttlequals0/autovpn) - Script to Create On Demand OpenVPN Endpoints on AWS.
 - [PiNet](https://github.com/PiNet/PiNet) - A utility for setting up and managing the infrastructure required for a permanent classroom set of Raspberry Pis to be used with students.
 - [bash-tricks](https://github.com/nibalizer/bash-tricks) - Sweet Bash Tricks
 - [rpi-arch-builder](https://github.com/containerstack/rpi-arch-builder) - Pre-configure Arch Linux ARM (RPI) before first boot
