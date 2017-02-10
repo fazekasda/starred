@@ -32,6 +32,7 @@
 
 ## C 
 
+- [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser.
 - [ultrajson](https://github.com/esnme/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 - [rtl8192eu-linux-driver](https://github.com/jeremyb31/rtl8192eu-linux-driver) - Drivers for the rtl8192eu chipset for wireless adapters (D-Link DWA-131 rev E1 included!)
 - [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
@@ -42,6 +43,7 @@
 
 ## C++ 
 
+- [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
@@ -69,6 +71,8 @@
 
 ## Go 
 
+- [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 - [restic](https://github.com/restic/restic) - restic backup program
 - [csvtk](https://github.com/shenwei356/csvtk) - A cross-platform, efficient, practical and pretty CSV/TSV toolkit in Golang
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
@@ -161,6 +165,7 @@
 
 ## Others 
 
+- [go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) - An overview of Go syntax and features.
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [pandoc-ebook-template](https://github.com/evangoer/pandoc-ebook-template) - This project defines a skeleton repo for creating ebooks out of Pandoc Markdown.
 - [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
@@ -192,6 +197,9 @@
 
 ## Python 
 
+- [attrs](https://github.com/hynek/attrs) - Python Attributes Without Boilerplate
+- [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
+- [pipenv](https://github.com/kennethreitz/pipenv) - Sacred Marriage of Pipfile, Pip, & Virtualenv.
 - [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms
 - [brenda](https://github.com/jamesyonan/brenda) - Blender render farm software for Amazon Web Services
