@@ -9,10 +9,11 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
-  - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Elixir](#elixir)
   - [Go](#go)
   - [HTML](#html)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter notebook)
@@ -61,16 +62,19 @@
 - [jekyll-resume](https://github.com/philipithomas/jekyll-resume) - Digital resume using Jekyll
 - [docker-jumpstart](https://github.com/odewahn/docker-jumpstart) - A quick introduction to Docker
 
-## Clojure 
-
-- [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
-
 ## CoffeeScript 
 
 - [marp](https://github.com/yhatt/marp) - Markdown presentation writer, powered by Electron.
 
+## Elixir 
+
+- [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
+
 ## Go 
 
+- [antibody](https://github.com/getantibody/antibody) - A faster and simpler antigen written in Golang.
+- [gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
+- [snap](https://github.com/intelsdi-x/snap) - The open telemetry framework
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 - [restic](https://github.com/restic/restic) - restic backup program
@@ -78,18 +82,19 @@
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [jid](https://github.com/simeji/jid) - json incremental digger
-- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
+- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
-- [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go patterns and idioms
+- [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [socker](https://github.com/cosiner/socker) - A Go library to simplify the use of SSH, support keepalive and multiplexing.
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [atlantis](https://github.com/ooyala/atlantis) - Open Source PaaS Built on Docker
 - [sman](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 - [texttop](https://github.com/tombh/texttop) - A fully interactive X Linux desktop rendered in TTY and streamable over SSH
+- [btrdb](https://github.com/SoftwareDefinedBuildings/btrdb) - Berkeley Tree Database (BTrDB) - development version
 - [go-httpd](https://github.com/otoolep/go-httpd) - How to organise a Go HTTP service
 - [find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [spread](https://github.com/redspread/spread) - Docker to Kubernetes in one command
@@ -99,7 +104,7 @@
 - [dockward](https://github.com/abiosoft/dockward) - Port forwarding tool for Docker containers
 - [gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 - [multicorecsv](https://github.com/mzimmerman/multicorecsv) - A multicore csv reader library in Go
-- [gophernotes](https://github.com/gopherds/gophernotes) - It's time to use Go in notebooks.
+- [gophernotes](https://github.com/gopherdata/gophernotes) - It's time to use Go in notebooks.
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands.
 - [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 - [noti](https://github.com/variadico/noti) - Trigger notifications when a process completes.
@@ -122,6 +127,10 @@
 - [resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 
+## Haskell 
+
+- [antigen-hs](https://github.com/Tarrasch/antigen-hs) - A fast zsh plugin manager
+
 ## Java 
 
 - [lucida](https://github.com/claritylab/lucida) - Speech and Vision Based Intelligent Personal Assistant
@@ -130,6 +139,7 @@
 
 ## JavaScript 
 
+- [TA.Gui](https://github.com/tebelorg/TA.Gui) - Tool for non-developers and business users to automate web apps
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [ems](https://github.com/SyntheticSemantics/ems) - Extended Memory Semantics - Persistent shared object memory and parallelism for Node.js and Python
 - [RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - RPi-Monitor always keep an eye on your Raspberry Pi and can give you the current status and the history of resources usages in a nice looking and interactive web interface.
@@ -141,7 +151,6 @@
 - [felony](https://github.com/henryboldi/felony) - 🔑🔥📈 Next Level PGP
 - [pyxley](https://github.com/stitchfix/pyxley) - Python helpers for building dashboards using Flask and React
 - [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project
-- [btrdb](https://github.com/SoftwareDefinedBuildings/btrdb) - Berkeley Tree Database (BTrDB) - development version
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [nbextension-scratchpad](https://github.com/minrk/nbextension-scratchpad) - scratchpad extension for Jupyter notebook
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets
@@ -165,12 +174,14 @@
 
 ## Others 
 
+- [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) - An overview of Go syntax and features.
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [pandoc-ebook-template](https://github.com/evangoer/pandoc-ebook-template) - This project defines a skeleton repo for creating ebooks out of Pandoc Markdown.
 - [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [ansible-letsencrypt](https://github.com/thefinn93/ansible-letsencrypt) - An ansible role to generate TLS certificates and get them signed by Let's Encrypt
-- [google-interview-university](https://github.com/jwasham/google-interview-university) - A complete computer science study plan to become a software engineer.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.
 - [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) - A list of minimalist frameworks (simple and lightweight).
 - [stanford_dl_ex](https://github.com/amaas/stanford_dl_ex) - Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial
@@ -197,7 +208,10 @@
 
 ## Python 
 
-- [attrs](https://github.com/hynek/attrs) - Python Attributes Without Boilerplate
+- [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [cpython](https://github.com/python/cpython) - The Python programming language
+- [ergonomica](https://github.com/ergonomica/ergonomica) - A cross-platform modern shell written in Python.
+- [attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
 - [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 - [pipenv](https://github.com/kennethreitz/pipenv) - Sacred Marriage of Pipfile, Pip, & Virtualenv.
 - [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
@@ -349,7 +363,8 @@
 
 ## Shell 
 
-- [git-recall](https://github.com/Fakerr/git-recall) - Simple and handy tool to easily recall what you've done
+- [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
+- [git-recall](https://github.com/Fakerr/git-recall) - Handy tool to easily recall what you've done
 - [climate](https://github.com/adtac/climate) - The ultimate command line tool for Linux developers! Provides a huge number of tools for developers to automate their system.
 - [autovpn](https://github.com/ttlequals0/autovpn) - Script to Create On Demand OpenVPN Endpoints on AWS.
 - [PiNet](https://github.com/PiNet/PiNet) - A utility for setting up and managing the infrastructure required for a permanent classroom set of Raspberry Pis to be used with students.
