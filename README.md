@@ -72,6 +72,7 @@
 
 ## Go 
 
+- [beehive](https://github.com/muesli/beehive) - A flexible event and agent system with lots of bees 🐝
 - [antibody](https://github.com/getantibody/antibody) - A faster and simpler antigen written in Golang.
 - [gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [snap](https://github.com/intelsdi-x/snap) - The open telemetry framework
@@ -122,6 +123,7 @@
 
 ## HTML 
 
+- [typography](https://github.com/hypertexthero/typography) - Simple HTML & CSS Typography Template
 - [startbootstrap-sb-admin-2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [scientific_python_cheat_sheet](https://github.com/IPGP/scientific_python_cheat_sheet) - simple overview of python, numpy, scipy, matplotlib functions that are useful for scientific work
 - [resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
@@ -139,6 +141,7 @@
 
 ## JavaScript 
 
+- [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🎉 V2 release! 🎉 — Step-by-step tutorial to build a modern JavaScript stack.
 - [TA.Gui](https://github.com/tebelorg/TA.Gui) - Tool for non-developers and business users to automate web apps
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [ems](https://github.com/SyntheticSemantics/ems) - Extended Memory Semantics - Persistent shared object memory and parallelism for Node.js and Python
@@ -208,6 +211,8 @@
 
 ## Python 
 
+- [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
+- [pyliftover](https://github.com/konstantint/pyliftover) - Pure-python implementation of UCSC liftOver genome coordinate conversion
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [cpython](https://github.com/python/cpython) - The Python programming language
 - [ergonomica](https://github.com/ergonomica/ergonomica) - A cross-platform modern shell written in Python.
